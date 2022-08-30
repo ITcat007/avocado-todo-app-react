@@ -5,7 +5,7 @@ This app is based on **the following technologies**:
 - React hooks useState and useEffect;
 - LocalStorage
                                     
-<img src="../todo_list/src/screen_avocado.png" width="300px" />
+![image](https://github.com/ITcat007/avocado-todo-app-react/blob/master/src/screen_avocado.png)
 
 ___
 
