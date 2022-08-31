@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/avocado-todo-app-react/static/css/main.51dcb906.css",
+    "main.js": "/avocado-todo-app-react/static/js/main.34755693.js",
+    "static/media/avocado.png": "/avocado-todo-app-react/static/media/avocado.677d4861d3c08937d614.png",
+    "index.html": "/avocado-todo-app-react/index.html",
+    "main.51dcb906.css.map": "/avocado-todo-app-react/static/css/main.51dcb906.css.map",
+    "main.34755693.js.map": "/avocado-todo-app-react/static/js/main.34755693.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.51dcb906.css",
+    "static/js/main.34755693.js"
+  ]
+}
