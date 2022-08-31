@@ -1,6 +1,6 @@
 import React, { useEffect, useState } from "react"; 
 import HomeCSS from './Home.module.css';
-import TodoItem from "../../Item/TodoItem";
+import TodoItem from "./Item/TodoItem";
 import CreateTodoArea from "./CreateTodoArea/CreateTodoArea";
 
 const todos = [

@@ -1,5 +1,5 @@
 import React, { useState } from "react"; 
-import TodoItemCSS from "../../../Item/TodoItem.module.css";
+import TodoItemCSS from "../../Home/Item/TodoItem.module.css";
 
 function CreateTodoArea({setMytodos}){
     const [title, setTitle] = useState('');
